@@ -7,3 +7,5 @@ The app is developed using Kotlin, Jetpack Compose and Firebase database.
 
 
 ![Screenshot_20240627_201850_Littl](https://github.com/user-attachments/assets/96e86940-4687-458d-a871-9566195aa05f)
+Little Lemon Prototype done on Figma for reserving a table
+![Stephen Nnamani Prototype](https://github.com/user-attachments/assets/fff70e34-099b-47f7-a3a2-077d63eed939)
